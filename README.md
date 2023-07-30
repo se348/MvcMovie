@@ -40,9 +40,9 @@ The project structure follows the standard .NET conventions for Razor Pages appl
 
 - `views/`: Contains Razor Pages, including the main page, details page, and error page.
 - `Models/`: Defines the models used in the application, such as the `Movie` model.
-- `DAL/'- contains the data access layer, unit of work, and repositories.
+- `DAL/`- contains the data access layer, unit of work, and repositories.
 - `wwwroot/`: Stores static files such as CSS, JavaScript, and images.
-- 'Controllers/': this is where the controllers are stored.
+- `Controllers/`: this is where the controllers are stored.
 
 ## Design Patterns
 
